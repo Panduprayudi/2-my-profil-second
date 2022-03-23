@@ -1,2 +1,2 @@
-# project 2
-My Profile Update 1.0
+# Project 2
+My Profile Update Second
